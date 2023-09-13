@@ -1,5 +1,9 @@
 # go-zero-looklook
 
+## 项目简介
+
+整个项目使用了go-zero开发的微服务，包含了go-zero以及相关go-zero作者开发的一些中间件，所用到的技术栈基本是go-zero项目组的自研组件。
+
 ## 使用技术
 - k8s
 - go-zero
@@ -24,10 +28,6 @@
 - jenkins
 - gitlab
 - harbor
-
-## 项目简介
-
-整个项目使用了go-zero开发的微服务，包含了go-zero以及相关go-zero作者开发的一些中间件，所用到的技术栈基本是go-zero项目组的自研组件。
 
 ## 项目目录结构如下：
 
