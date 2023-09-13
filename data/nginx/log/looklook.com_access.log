@@ -1,0 +1,2 @@
+172.16.0.1 - - [01/Sep/2023:18:49:09 +0800] "POST /usercenter/v1/user/register HTTP/1.1" 200 248 "-" "PostmanRuntime/7.32.3"
+172.16.0.1 - - [01/Sep/2023:18:50:17 +0800] "POST /usercenter/v1/user/detail HTTP/1.1" 401 0 "-" "PostmanRuntime/7.32.3"
